@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "english": "Yamuna Bank",
+            "hindi": "यमुना बैंक"
+        }
+    },
+    {
+        "id": 2,
+        "name": {
+            "english": "Laxmi Nagar",
+            "hindi": "लक्ष्मी नगर"
+        }
+    },
+    {
+        "id": 3,
+        "name": {
+            "english": "Nirman Vihar",
+            "hindi": "निर्माण विहार"
+        }
+    },
+    {
+        "id": 4,
+        "name": {
+            "english": "Preet Vihar",
+            "hindi": "प्रीत विहार"
+        }
+    },
+    {
+        "id": 5,
+        "name": {
+            "english": "Karkarduma",
+            "hindi": "कड़कड़ डूमा"
+        }
+    },
+    {
+        "id": 6,
+        "name": {
+            "english": "Anand Vihar",
+            "hindi": "आनंद विहार"
+        }
+    },
+    {
+        "id": 7,
+        "name": {
+            "english": "Kaushambi",
+            "hindi": "कौशाम्बी"
+        }
+    },
+    {
+        "id": 8,
+        "name": {
+            "english": "Vaishali",
+            "hindi": "वैशाली"
+        }
+    }
+]

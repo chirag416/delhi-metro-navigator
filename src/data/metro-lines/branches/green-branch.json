@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "english": "Ashok Park Main",
+            "hindi": "अशोक पार्क मेन"
+        }
+    },
+    {
+        "id": 2,
+        "name": {
+            "english": "Satguru Ram Singh Marg",
+            "hindi": "सतगुरु राम सिंह मार्ग"
+        }
+    },
+    {
+        "id": 3,
+        "name": {
+            "english": "Kirti Nagar",
+            "hindi": "कीर्ति नगर"
+        }
+    }
+]

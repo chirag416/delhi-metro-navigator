@@ -1,0 +1,261 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "english": "Samaypur Badli",
+            "hindi": "समयपुर बादली"
+        }
+    },
+    {
+        "id": 2,
+        "name": {
+            "english": "Rohini Sector 18",
+            "hindi": "रोहिणी सेक्टर 18, 19"
+        }
+    },
+    {
+        "id": 3,
+        "name": {
+            "english": "Haiderpur",
+            "hindi": "हैदरपुर बादली मोड़"
+        }
+    },
+    {
+        "id": 4,
+        "name": {
+            "english": "Jahangirpuri",
+            "hindi": "जहाँगीरपुरी"
+        }
+    },
+    {
+        "id": 5,
+        "name": {
+            "english": "Adarsh Nagar",
+            "hindi": "आदर्श नगर"
+        }
+    },
+    {
+        "id": 6,
+        "name": {
+            "english": "Azadpur",
+            "hindi": "आज़ादपुर"
+        }
+    },
+    {
+        "id": 7,
+        "name": {
+            "english": "Model Town",
+            "hindi": "मॉडल टाउन"
+        }
+    },
+    {
+        "id": 8,
+        "name": {
+            "english": "GTB Nagar",
+            "hindi": "गुरु तेग बहादुर नगर"
+        }
+    },
+    {
+        "id": 9,
+        "name": {
+            "english": "Vishwa Vidyalaya",
+            "hindi": "विश्व विद्यालय"
+        }
+    },
+    {
+        "id": 10,
+        "name": {
+            "english": "Vidhan Sabha",
+            "hindi": "विधान सभा"
+        }
+    },
+    {
+        "id": 11,
+        "name": {
+            "english": "Civil Lines",
+            "hindi": "सिविल लाइन्स"
+        }
+    },
+    {
+        "id": 12,
+        "name": {
+            "english": "Kashmere Gate",
+            "hindi": "कश्मीरी गेट"
+        }
+    },
+    {
+        "id": 13,
+        "name": {
+            "english": "Chandni Chowk",
+            "hindi": "चाँदनी चौक"
+        }
+    },
+    {
+        "id": 14,
+        "name": {
+            "english": "Chawri Bazar",
+            "hindi": "चावड़ी बाजार"
+        }
+    },
+    {
+        "id": 15,
+        "name": {
+            "english": "New Delhi",
+            "hindi": "नई दिल्ली"
+        }
+    },
+    {
+        "id": 16,
+        "name": {
+            "english": "Rajiv Chowk",
+            "hindi": "राजीव चौक"
+        }
+    },
+    {
+        "id": 17,
+        "name": {
+            "english": "Patel Chowk",
+            "hindi": "पटेल चौक"
+        }
+    },
+    {
+        "id": 18,
+        "name": {
+            "english": "Central Secretariat",
+            "hindi": "केन्द्रीय सचिवालय"
+        }
+    },
+    {
+        "id": 19,
+        "name": {
+            "english": "Udyog Bhawan",
+            "hindi": "उद्योग भवन"
+        }
+    },
+    {
+        "id": 20,
+        "name": {
+            "english": "Lok Kalyan Marg",
+            "hindi": "लोक कल्याण मार्ग"
+        }
+    },
+    {
+        "id": 21,
+        "name": {
+            "english": "Jor Bagh",
+            "hindi": "जोर बाग़"
+        }
+    },
+    {
+        "id": 22,
+        "name": {
+            "english": "INA",
+            "hindi": "आई.एन.ए"
+        }
+    },
+    {
+        "id": 23,
+        "name": {
+            "english": "AIIMS",
+            "hindi": "एम्स"
+        }
+    },
+    {
+        "id": 24,
+        "name": {
+            "english": "Green Park",
+            "hindi": "ग्रीन पार्क"
+        }
+    },
+    {
+        "id": 25,
+        "name": {
+            "english": "Hauz Khas",
+            "hindi": "हौज़ खास"
+        }
+    },
+    {
+        "id": 26,
+        "name": {
+            "english": "Malviya Nagar",
+            "hindi": "मालवीय नगर"
+        }
+    },
+    {
+        "id": 27,
+        "name": {
+            "english": "Saket",
+            "hindi": "साकेत"
+        }
+    },
+    {
+        "id": 28,
+        "name": {
+            "english": "Qutub Minar",
+            "hindi": "क़ुतुब मीनार"
+        }
+    },
+    {
+        "id": 29,
+        "name": {
+            "english": "Chhatarpur",
+            "hindi": "छत्तरपुर"
+        }
+    },
+    {
+        "id": 30,
+        "name": {
+            "english": "Sultanpur",
+            "hindi": "सुल्तानपुर"
+        }
+    },
+    {
+        "id": 31,
+        "name": {
+            "english": "Ghitorni",
+            "hindi": "घिटोरनी"
+        }
+    },
+    {
+        "id": 32,
+        "name": {
+            "english": "Arjan Garh",
+            "hindi": "अर्जन गढ़"
+        }
+    },
+    {
+        "id": 33,
+        "name": {
+            "english": "Guru Dronacharya",
+            "hindi": "गुरु द्रोणाचार्य"
+        }
+    },
+    {
+        "id": 34,
+        "name": {
+            "english": "Sikandarpur",
+            "hindi": "सिकन्दरपुर"
+        }
+    },
+    {
+        "id": 35,
+        "name": {
+            "english": "MG Road",
+            "hindi": "एम जी रोड"
+        }
+    },
+    {
+        "id": 36,
+        "name": {
+            "english": "IFFCO Chowk",
+            "hindi": "इफ़्को चौक"
+        }
+    },
+    {
+        "id": 37,
+        "name": {
+            "english": "HUDA City Centre",
+            "hindi": "हुडा सिटी सैंटर"
+        }
+    }
+]

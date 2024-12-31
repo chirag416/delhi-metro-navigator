@@ -1,0 +1,205 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "english": "Shaheed Sthal",
+            "hindi": "शहीद स्थल"
+        }
+    },
+    {
+        "id": 2,
+        "name": {
+            "english": "Hindon",
+            "hindi": "हिंडन"
+        }
+    },
+    {
+        "id": 3,
+        "name": {
+            "english": "Arthala",
+            "hindi": "अर्थला"
+        }
+    },
+    {
+        "id": 4,
+        "name": {
+            "english": "Mohan Nagar",
+            "hindi": "मोहन नगर"
+        }
+    },
+    {
+        "id": 5,
+        "name": {
+            "english": "Shyam park",
+            "hindi": "श्याम पार्क"
+        }
+    },
+    {
+        "id": 6,
+        "name": {
+            "english": "Major Mohit Sharma",
+            "hindi": "मे‌‌जर मोहित शर्मा"
+        }
+    },
+    {
+        "id": 7,
+        "name": {
+            "english": "Raj Bagh",
+            "hindi": "राज बाग"
+        }
+    },
+    {
+        "id": 8,
+        "name": {
+            "english": "Shaheed Nagar",
+            "hindi": "शहीद नगर"
+        }
+    },
+    {
+        "id": 9,
+        "name": {
+            "english": "Dilshad Garden",
+            "hindi": "दिलशाद गार्डन"
+        }
+    },
+    {
+        "id": 10,
+        "name": {
+            "english": "Jhilmil",
+            "hindi": "झिलमिल कालोनी"
+        }
+    },
+    {
+        "id": 11,
+        "name": {
+            "english": "Mansarovar Park",
+            "hindi": "मानसरोवर पार्क"
+        }
+    },
+    {
+        "id": 12,
+        "name": {
+            "english": "Shahdara",
+            "hindi": "शाहदरा"
+        }
+    },
+    {
+        "id": 13,
+        "name": {
+            "english": "Welcome",
+            "hindi": "वेलकम"
+        }
+    },
+    {
+        "id": 14,
+        "name": {
+            "english": "Seelampur",
+            "hindi": "सीलमपुर"
+        }
+    },
+    {
+        "id": 15,
+        "name": {
+            "english": "Shastri Park",
+            "hindi": "शास्त्री पार्क"
+        }
+    },
+    {
+        "id": 16,
+        "name": {
+            "english": "Kashmere Gate",
+            "hindi": "कश्मीरी गेट"
+        }
+    },
+    {
+        "id": 17,
+        "name": {
+            "english": "Tis Hazari",
+            "hindi": "तीस हजारी"
+        }
+    },
+    {
+        "id": 18,
+        "name": {
+            "english": "Pul Bangash",
+            "hindi": "पुल बंगाश"
+        }
+    },
+    {
+        "id": 19,
+        "name": {
+            "english": "Pratap Nagar",
+            "hindi": "प्रताप नगर"
+        }
+    },
+    {
+        "id": 20,
+        "name": {
+            "english": "Shastri Nagar",
+            "hindi": "शास्त्री नगर"
+        }
+    },
+    {
+        "id": 21,
+        "name": {
+            "english": "Inderlok",
+            "hindi": "इन्दरलोक"
+        }
+    },
+    {
+        "id": 22,
+        "name": {
+            "english": "Kanhiya Nagar",
+            "hindi": "कन्हैया नगर"
+        }
+    },
+    {
+        "id": 23,
+        "name": {
+            "english": "Keshav Puram",
+            "hindi": "केशव पुरम"
+        }
+    },
+    {
+        "id": 24,
+        "name": {
+            "english": "Netaji Subhash Place",
+            "hindi": "नेताजी सुभाष प्लेस"
+        }
+    },
+    {
+        "id": 25,
+        "name": {
+            "english": "Kohat Enclave",
+            "hindi": "कोहाट एन्क्लेव"
+        }
+    },
+    {
+        "id": 26,
+        "name": {
+            "english": "Pitam Pura",
+            "hindi": "पीतमपुरा"
+        }
+    },
+    {
+        "id": 27,
+        "name": {
+            "english": "Rohini East",
+            "hindi": "रोहिणी पूर्व"
+        }
+    },
+    {
+        "id": 28,
+        "name": {
+            "english": "Rohini West",
+            "hindi": "रोहिणी पश्चिम"
+        }
+    },
+    {
+        "id": 29,
+        "name": {
+            "english": "Rithala",
+            "hindi": "रिठाला"
+        }
+    }
+]

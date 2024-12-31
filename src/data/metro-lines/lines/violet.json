@@ -1,0 +1,240 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "english": "Kashmere Gate",
+            "hindi": "कश्मीरी गेट"
+        }
+    },
+    {
+        "id": 3,
+        "name": {
+            "english": "Lal Qila",
+            "hindi": "लाल किला"
+        }
+    },
+    {
+        "id": 3,
+        "name": {
+            "english": "Jama Masjid",
+            "hindi": "जामा मस्जिद"
+        }
+    },
+    {
+        "id": 4,
+        "name": {
+            "english": "Delhi Gate",
+            "hindi": "दिल्ली गेट"
+        }
+    },
+    {
+        "id": 5,
+        "name": {
+            "english": "ITO",
+            "hindi": "आईटीओ"
+        }
+    },
+    {
+        "id": 6,
+        "name": {
+            "english": "Mandi House",
+            "hindi": "मंडी हाउस"
+        }
+    },
+    {
+        "id": 7,
+        "name": {
+            "english": "Janpath",
+            "hindi": "जनपथ"
+        }
+    },
+    {
+        "id": 8,
+        "name": {
+            "english": "Central Secretariat",
+            "hindi": "केंद्रीय सचिवालय"
+        }
+    },
+    {
+        "id": 9,
+        "name": {
+            "english": "Khan Market",
+            "hindi": "खान बाजार"
+        }
+    },
+    {
+        "id": 10,
+        "name": {
+            "english": "Jawaharlal Nehru Stadium",
+            "hindi": "जवाहर लाल नेहरू स्टेडियम"
+        }
+    },
+    {
+        "id": 11,
+        "name": {
+            "english": "Jangpura",
+            "hindi": "जंगपुरा"
+        }
+    },
+    {
+        "id": 12,
+        "name": {
+            "english": "Lajpat Nagar",
+            "hindi": "लाजपत नगर"
+        }
+    },
+    {
+        "id": 13,
+        "name": {
+            "english": "Moolchand",
+            "hindi": "मूलचंद"
+        }
+    },
+    {
+        "id": 14,
+        "name": {
+            "english": "Kailash Colony",
+            "hindi": "कैलाश कॉलोनी"
+        }
+    },
+    {
+        "id": 15,
+        "name": {
+            "english": "Nehru Place",
+            "hindi": "नेहरू प्लेस"
+        }
+    },
+    {
+        "id": 16,
+        "name": {
+            "english": "Kalkaji Mandir",
+            "hindi": "कालकाजी मंदिर"
+        }
+    },
+    {
+        "id": 17,
+        "name": {
+            "english": "Govind Puri",
+            "hindi": "गोविंद पुरी"
+        }
+    },
+    {
+        "id": 18,
+        "name": {
+            "english": "Harkesh Nagar",
+            "hindi": "हरकेश नगर"
+        }
+    },
+    {
+        "id": 19,
+        "name": {
+            "english": "Jasola Apollo",
+            "hindi": "जसोला अपोलो"
+        }
+    },
+    {
+        "id": 20,
+        "name": {
+            "english": "Sarita Vihar",
+            "hindi": "सरिता विहार"
+        }
+    },
+    {
+        "id": 21,
+        "name": {
+            "english": "Mohan Estate",
+            "hindi": "मोहन एस्टेट"
+        }
+    },
+    {
+        "id": 22,
+        "name": {
+            "english": "Tughlakabad",
+            "hindi": "तुगलकाबाद"
+        }
+    },
+    {
+        "id": 23,
+        "name": {
+            "english": "Badarpur",
+            "hindi": "बदरपुर"
+        }
+    },
+    {
+        "id": 24,
+        "name": {
+            "english": "Sarai",
+            "hindi": "सराय"
+        }
+    },
+    {
+        "id": 25,
+        "name": {
+            "english": "NHPC Chowk",
+            "hindi": "एनएचपीसी चौक"
+        }
+    },
+    {
+        "id": 26,
+        "name": {
+            "english": "Mewala Maharajpur",
+            "hindi": "मेवला महाराजपुर"
+        }
+    },
+    {
+        "id": 27,
+        "name": {
+            "english": "Sector 28",
+            "hindi": "सेक्टर 28"
+        }
+    },
+    {
+        "id": 28,
+        "name": {
+            "english": "Badkhal Mor",
+            "hindi": "बदखल मोर"
+        }
+    },
+    {
+        "id": 29,
+        "name": {
+            "english": "Faridabad Old",
+            "hindi": "फरीदाबाद ओल्ड"
+        }
+    },
+    {
+        "id": 30,
+        "name": {
+            "english": "Neelam Chowk Ajronda",
+            "hindi": "नीलम चौक अज्रोंडा"
+        }
+    },
+    {
+        "id": 31,
+        "name": {
+            "english": "Bata Chowk",
+            "hindi": "बाटा चौक"
+        }
+    },
+    {
+        "id": 32,
+        "name": {
+            "english": "Escorts Mujesar",
+            "hindi": "एस्कॉर्ट्स मुजेसर"
+        }
+    },
+    {
+        "id": 33,
+        "name": {
+            "english": "Sant Surdas",
+            "hindi": "संत सूरदास - सिही (एनसीबी कॉलोनी - गुड ईयर)"
+        }
+    },
+    {
+        "id": 34,
+        "name": {
+            "english": "Raja Nahar Singh",
+            "hindi": "राजा नाहर सिंह (बल्लभगढ़)"
+        }
+    }
+]

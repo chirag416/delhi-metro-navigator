@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "english": "Majlis Park",
+            "hindi": "मजलिस पार्क"
+        }
+    },
+    {
+        "id": 2,
+        "name": {
+            "english": "Azadpur",
+            "hindi": "आजादपुर"
+        }
+    },
+    {
+        "id": 3,
+        "name": {
+            "english": "Shalimar Bagh",
+            "hindi": "शालीमार बाग"
+        }
+    },
+    {
+        "id": 4,
+        "name": {
+            "english": "Netaji Subhash Place",
+            "hindi": "नेताजी सुभाष प्लेस"
+        }
+    },
+    {
+        "id": 5,
+        "name": {
+            "english": "Shakurpur",
+            "hindi": "शकूरपुर"
+        }
+    },
+    {
+        "id": 6,
+        "name": {
+            "english": "Punjabi Bagh West",
+            "hindi": "पंजाबी बाग पश्चिम"
+        }
+    },
+    {
+        "id": 7,
+        "name": {
+            "english": "ESI Hospital",
+            "hindi": "ईएसआई अस्पताल"
+        }
+    },
+    {
+        "id": 8,
+        "name": {
+            "english": "Rajouri Garden",
+            "hindi": "राजौरी गार्डन"
+        }
+    },
+    {
+        "id": 9,
+        "name": {
+            "english": "Mayapuri",
+            "hindi": "माया पुरी"
+        }
+    },
+    {
+        "id": 10,
+        "name": {
+            "english": "Naraina Vihar",
+            "hindi": "नारायणा विहार"
+        }
+    },
+    {
+        "id": 11,
+        "name": {
+            "english": "Delhi Cantonment",
+            "hindi": "दिल्ली छावनी"
+        }
+    },
+    {
+        "id": 12,
+        "name": {
+            "english": "Durgabai Deshmukh South Campus",
+            "hindi": "दुर्गाबाई देशमुख साउथ कैम्पस"
+        }
+    },
+    {
+        "id": 13,
+        "name": {
+            "english": "Sir Vishweshwaraiah Moti Bagh",
+            "hindi": "सर विश्वेश्वरय्या मोती बाग"
+        }
+    },
+    {
+        "id": 14,
+        "name": {
+            "english": "Bhikaji Cama Place",
+            "hindi": "भीकाजी कामा प्लेस"
+        }
+    },
+    {
+        "id": 15,
+        "name": {
+            "english": "Sarojini Nagar",
+            "hindi": "सरोजिनी नगर"
+        }
+    },
+    {
+        "id": 16,
+        "name": {
+            "english": "INA",
+            "hindi": "आई एन ए"
+        }
+    },
+    {
+        "id": 17,
+        "name": {
+            "english": "South Extension",
+            "hindi": "साउथ एक्सटेंशन"
+        }
+    },
+    {
+        "id": 18,
+        "name": {
+            "english": "Lajpat Nagar",
+            "hindi": "लाजपत नगर"
+        }
+    },
+    {
+        "id": 19,
+        "name": {
+            "english": "Vinobapuri",
+            "hindi": "विनोबापुरी"
+        }
+    },
+    {
+        "id": 20,
+        "name": {
+            "english": "Ashram",
+            "hindi": "आश्रम"
+        }
+    },
+    {
+        "id": 21,
+        "name": {
+            "english": "Hazrat Nizamuddin",
+            "hindi": "सराय काले खान - निजामुद्दीन"
+        }
+    },
+    {
+        "id": 22,
+        "name": {
+            "english": "Mayur Vihar – I",
+            "hindi": "मयूर विहार-१"
+        }
+    },
+    {
+        "id": 23,
+        "name": {
+            "english": "Mayur Vihar Pocket I",
+            "hindi": "मयूर विहार पॉकेट 1"
+        }
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "english": "Trilokpuri Sanjay Lake",
+            "hindi": "त्रिलोकपुरी संजय झील"
+        }
+    },
+    {
+        "id": 2,
+        "name": {
+            "english": "East Vinod Nagar - Mayur Vihar-II",
+            "hindi": "पूर्वी विनोद नगर - मयूर विहार - II"
+        }
+    },
+    {
+        "id": 3,
+        "name": {
+            "english": "Mandawali - West Vinod Nagar",
+            "hindi": "मंडावली- वेस्ट विनोद नगर"
+        }
+    },
+    {
+        "id": 4,
+        "name": {
+            "english": "IP Extension",
+            "hindi": "आईपी एक्सटेंशन"
+        }
+    },
+    {
+        "id": 5,
+        "name": {
+            "english": "Anand Vihar",
+            "hindi": "आनंद विहार"
+        }
+    },
+    {
+        "id": 6,
+        "name": {
+            "english": "Karkarduma",
+            "hindi": "कड़कड़डूमा"
+        }
+    },
+    {
+        "id": 7,
+        "name": {
+            "english": "Karkarduma Court",
+            "hindi": "कड़कड़डूमा कोर्ट"
+        }
+    },
+    {
+        "id": 8,
+        "name": {
+            "english": "Krishna Nagar",
+            "hindi": "कृष्णा नगर"
+        }
+    },
+    {
+        "id": 9,
+        "name": {
+            "english": "East Azad Nagar",
+            "hindi": "आजाद नगर पूर्व"
+        }
+    },
+    {
+        "id": 10,
+        "name": {
+            "english": "Welcome",
+            "hindi": "वेलकम"
+        }
+    },
+    {
+        "id": 11,
+        "name": {
+            "english": "Jaffrabad",
+            "hindi": "जाफराबाद"
+        }
+    },
+    {
+        "id": 12,
+        "name": {
+            "english": "Maujpur-Babarpur",
+            "hindi": "मौजपुर - बाबरपुर"
+        }
+    },
+    {
+        "id": 13,
+        "name": {
+            "english": "Gokulpuri",
+            "hindi": "गोकुलपुरी"
+        }
+    },
+    {
+        "id": 14,
+        "name": {
+            "english": "Johri Enclave",
+            "hindi": "जौहरी एनक्लेव"
+        }
+    },
+    {
+        "id": 15,
+        "name": {
+            "english": "Shiv Vihar",
+            "hindi": "शिव विहार"
+        }
+    }
+]

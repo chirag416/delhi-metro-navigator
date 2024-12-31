@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "english": "New Delhi",
+            "hindi": "नई दिल्ली"
+        }
+    },
+    {
+        "id": 2,
+        "name": {
+            "english": "Shivaji Stadium",
+            "hindi": "शिवाजी स्टेडियम"
+        }
+    },
+    {
+        "id": 3,
+        "name": {
+            "english": "Dhaula Kuan",
+            "hindi": "धौला कुआँ"
+        }
+    },
+    {
+        "id": 4,
+        "name": {
+            "english": "Delhi Aerocity",
+            "hindi": "दिल्ली एरोसिटी"
+        }
+    },
+    {
+        "id": 5,
+        "name": {
+            "english": "Airport",
+            "hindi": "विमानपत्तन"
+        }
+    },
+    {
+        "id": 6,
+        "name": {
+            "english": "Dwarka Sector 21",
+            "hindi": "द्वारका सेक्टर २१"
+        }
+    }
+]

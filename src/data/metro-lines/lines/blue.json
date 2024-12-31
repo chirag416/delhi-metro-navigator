@@ -1,0 +1,353 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "english": "Noida Electronic City",
+            "hindi": "नोएडा इलैक्ट्रौनिक सिटी"
+        }
+    },
+    {
+        "id": 2,
+        "name": {
+            "english": "Noida Sector 62",
+            "hindi": "नोएडा सेक्टर 62"
+        }
+    },
+    {
+        "id": 3,
+        "name": {
+            "english": "Noida Sector 59",
+            "hindi": "नोएडा सेक्टर 59"
+        }
+    },
+    {
+        "id": 4,
+        "name": {
+            "english": "Noida Sector 61",
+            "hindi": "नोएडा सेक्टर 61"
+        }
+    },
+    {
+        "id": 5,
+        "name": {
+            "english": "Noida Sector 52",
+            "hindi": "नोएडा सेक्टर 52"
+        }
+    },
+    {
+        "id": 6,
+        "name": {
+            "english": "Noida Sector 34",
+            "hindi": "नोएडा सेक्टर 34"
+        }
+    },
+    {
+        "id": 7,
+        "name": {
+            "english": "Noida City Centre",
+            "hindi": "नोएडा सिटी सेंटर"
+        }
+    },
+    {
+        "id": 8,
+        "name": {
+            "english": "Golf Course",
+            "hindi": "गोल्फ कोर्स"
+        }
+    },
+    {
+        "id": 9,
+        "name": {
+            "english": "Botanical Garden",
+            "hindi": "बॉटानिकल गार्डन"
+        }
+    },
+    {
+        "id": 10,
+        "name": {
+            "english": "Noida Sector 18",
+            "hindi": "नोएडा सेक्टर १८"
+        }
+    },
+    {
+        "id": 11,
+        "name": {
+            "english": "Noida Sector 16",
+            "hindi": "नोएडा सेक्टर १६"
+        }
+    },
+    {
+        "id": 12,
+        "name": {
+            "english": "Noida Sector 15",
+            "hindi": "नोएडा सेक्टर १५"
+        }
+    },
+    {
+        "id": 13,
+        "name": {
+            "english": "New Ashok Nagar",
+            "hindi": "नया अशोक नगर"
+        }
+    },
+    {
+        "id": 14,
+        "name": {
+            "english": "Mayur Vihar Extension",
+            "hindi": "मयूर विहार विस्तार"
+        }
+    },
+    {
+        "id": 15,
+        "name": {
+            "english": "Mayur Vihar – I",
+            "hindi": "मयूर विहार-१"
+        }
+    },
+    {
+        "id": 16,
+        "name": {
+            "english": "Akshardham",
+            "hindi": "अक्षरधाम"
+        }
+    },
+    {
+        "id": 17,
+        "name": {
+            "english": "Yamuna Bank",
+            "hindi": "यमुना बैंक"
+        }
+    },
+    {
+        "10": "None",
+        "id": 18,
+        "name": {
+            "english": "Indraprastha",
+            "hindi": "इंद्रप्रस्थ"
+        }
+    },
+    {
+        "id": 19,
+        "name": {
+            "english": "Pragati Maidan",
+            "hindi": "प्रगति मैदान"
+        }
+    },
+    {
+        "id": 20,
+        "name": {
+            "english": "Mandi House",
+            "hindi": "मंडी हाउस"
+        }
+    },
+    {
+        "id": 21,
+        "name": {
+            "english": "Barakhambha Road",
+            "hindi": "बाराखम्भा मार्ग"
+        }
+    },
+    {
+        "id": 22,
+        "name": {
+            "english": "Rajiv Chowk",
+            "hindi": "राजीव चौक"
+        }
+    },
+    {
+        "id": 23,
+        "name": {
+            "english": "Ramakrishna Ashram Marg",
+            "hindi": "रामकृष्ण आश्रम मार्ग"
+        }
+    },
+    {
+        "id": 24,
+        "name": {
+            "english": "Jhandewalan",
+            "hindi": "झंडेवालान"
+        }
+    },
+    {
+        "id": 25,
+        "name": {
+            "english": "Karol Bagh",
+            "hindi": "क़रोल बाग़"
+        }
+    },
+    {
+        "id": 26,
+        "name": {
+            "english": "Rajendra Place",
+            "hindi": "राजेंद्र प्लेस"
+        }
+    },
+    {
+        "id": 27,
+        "name": {
+            "english": "Patel Nagar",
+            "hindi": "पटेल नगर"
+        }
+    },
+    {
+        "id": 28,
+        "name": {
+            "english": "Shadipur",
+            "hindi": "शादीपुर"
+        }
+    },
+    {
+        "id": 29,
+        "name": {
+            "english": "Kirti Nagar",
+            "hindi": "कीर्ति नगर"
+        }
+    },
+    {
+        "id": 30,
+        "name": {
+            "english": "Moti Nagar",
+            "hindi": "मोती नगर"
+        }
+    },
+    {
+        "id": 31,
+        "name": {
+            "english": "Ramesh Nagar",
+            "hindi": "रमेश नगर"
+        }
+    },
+    {
+        "id": 32,
+        "name": {
+            "english": "Rajouri Garden",
+            "hindi": "राजौरी गार्डन"
+        }
+    },
+    {
+        "id": 33,
+        "name": {
+            "english": "Tagore Garden",
+            "hindi": "टैगोर गार्डन"
+        }
+    },
+    {
+        "id": 34,
+        "name": {
+            "english": "Subhash Nagar",
+            "hindi": "सुभाष नगर"
+        }
+    },
+    {
+        "id": 35,
+        "name": {
+            "english": "Tilak Nagar",
+            "hindi": "तिलक नगर"
+        }
+    },
+    {
+        "id": 36,
+        "name": {
+            "english": "Janakpuri East",
+            "hindi": "जनकपुरी पूर्व"
+        }
+    },
+    {
+        "id": 37,
+        "name": {
+            "english": "Janakpuri West",
+            "hindi": "जनकपुरी पश्चिम"
+        }
+    },
+    {
+        "id": 38,
+        "name": {
+            "english": "Uttam Nagar East",
+            "hindi": "उत्तम नगर पूर्व"
+        }
+    },
+    {
+        "id": 39,
+        "name": {
+            "english": "Uttam Nagar West",
+            "hindi": "उत्तम नगर पश्चिम"
+        }
+    },
+    {
+        "id": 40,
+        "name": {
+            "english": "Nawada",
+            "hindi": "नवादा"
+        }
+    },
+    {
+        "id": 41,
+        "name": {
+            "english": "Dwarka Mor",
+            "hindi": "द्वारका मोड़"
+        }
+    },
+    {
+        "id": 42,
+        "name": {
+            "english": "Dwarka",
+            "hindi": "द्वारका"
+        }
+    },
+    {
+        "id": 43,
+        "name": {
+            "english": "Dwarka Sector 14",
+            "hindi": "द्वारका सैक्टर १४"
+        }
+    },
+    {
+        "id": 44,
+        "name": {
+            "english": "Dwarka Sector 13",
+            "hindi": "द्वारका सैक्टर १३"
+        }
+    },
+    {
+        "id": 45,
+        "name": {
+            "english": "Dwarka Sector 12",
+            "hindi": "द्वारका सैक्टर १२"
+        }
+    },
+    {
+        "id": 46,
+        "name": {
+            "english": "Dwarka Sector 11",
+            "hindi": "द्वारका सैक्टर ११"
+        }
+    },
+    {
+        "id": 47,
+        "name": {
+            "english": "Dwarka Sector 10",
+            "hindi": "द्वारका सैक्टर १०"
+        }
+    },
+    {
+        "id": 48,
+        "name": {
+            "english": "Dwarka Sector 9",
+            "hindi": "द्वारका सैक्टर ९"
+        }
+    },
+    {
+        "id": 49,
+        "name": {
+            "english": "Dwarka Sector 8",
+            "hindi": "द्वारका सैक्टर ८"
+        }
+    },
+    {
+        "id": 50,
+        "name": {
+            "english": "Dwarka Sector 21",
+            "hindi": "द्वारका सैक्टर २१"
+        }
+    }
+]

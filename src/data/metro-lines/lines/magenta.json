@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "english": "Janakpuri West",
+            "hindi": "जनकपुरी पश्चिम"
+        }
+    },
+    {
+        "id": 2,
+        "name": {
+            "english": "Dabri Mor-Janakpuri South",
+            "hindi": "डाबरी मोर"
+        }
+    },
+    {
+        "id": 3,
+        "name": {
+            "english": "Dashrath Puri",
+            "hindi": "दशरथ पुरी"
+        }
+    },
+    {
+        "id": 4,
+        "name": {
+            "english": "Palam",
+            "hindi": "पालम"
+        }
+    },
+    {
+        "id": 5,
+        "name": {
+            "english": "Sadar Bazaar Cantonment",
+            "hindi": "सदर बाजार छावनी"
+        }
+    },
+    {
+        "id": 6,
+        "name": {
+            "english": "Terminal 1-IGI Airport",
+            "hindi": "टर्मिनल 1 इन्दिरा गाँधी अंतर्राष्ट्रीय हवाई अड्डा"
+        }
+    },
+    {
+        "id": 7,
+        "name": {
+            "english": "Shankar Vihar",
+            "hindi": "शंकर विहार"
+        }
+    },
+    {
+        "id": 8,
+        "name": {
+            "english": "Vasant Vihar",
+            "hindi": "वसन्त विहार"
+        }
+    },
+    {
+        "id": 9,
+        "name": {
+            "english": "Munirka",
+            "hindi": "मुनिरका"
+        }
+    },
+    {
+        "id": 10,
+        "name": {
+            "english": "R.K.Puram",
+            "hindi": "राम कृष्ण पुरम"
+        }
+    },
+    {
+        "id": 11,
+        "name": {
+            "english": "IIT Delhi",
+            "hindi": "आईआईटी दिल्ली"
+        }
+    },
+    {
+        "id": 12,
+        "name": {
+            "english": "Hauz Khas",
+            "hindi": "हौज़ खास"
+        }
+    },
+    {
+        "id": 13,
+        "name": {
+            "english": "Panchsheel Park",
+            "hindi": "पंचशील पार्क"
+        }
+    },
+    {
+        "id": 14,
+        "name": {
+            "english": "Chirag Delhi",
+            "hindi": "चिराग दिल्ली"
+        }
+    },
+    {
+        "id": 15,
+        "name": {
+            "english": "Greater Kailash",
+            "hindi": "ग्रेटर कैलाश"
+        }
+    },
+    {
+        "id": 16,
+        "name": {
+            "english": "Nehru Enclave",
+            "hindi": "नेहरू एन्क्लेव"
+        }
+    },
+    {
+        "id": 17,
+        "name": {
+            "english": "Kalkaji Mandir",
+            "hindi": "कालकाजी मंदिर"
+        }
+    },
+    {
+        "id": 18,
+        "name": {
+            "english": "Okhla NSIC",
+            "hindi": "ओखला एन एस आई सी"
+        }
+    },
+    {
+        "id": 19,
+        "name": {
+            "english": "Sukhdev Vihar",
+            "hindi": "सुखदेव विहार"
+        }
+    },
+    {
+        "id": 20,
+        "name": {
+            "english": "Jamia Millia Islamia",
+            "hindi": "जामिया मिलिया इस्लामिया"
+        }
+    },
+    {
+        "id": 21,
+        "name": {
+            "english": "Okhla Vihar",
+            "hindi": "ओखला विहार"
+        }
+    },
+    {
+        "id": 22,
+        "name": {
+            "english": "Jasola Vihar Shaheen Bagh",
+            "hindi": "जसोला विहार शाहीन बाग"
+        }
+    },
+    {
+        "id": 23,
+        "name": {
+            "english": "Kalindi Kunj",
+            "hindi": "कालिन्दी कुंज"
+        }
+    },
+    {
+        "id": 24,
+        "name": {
+            "english": "Okhla Bird Sanctuary",
+            "hindi": "ओखला पक्षी अभयारण्य"
+        }
+    },
+    {
+        "id": 25,
+        "name": {
+            "english": "Botanical Garden",
+            "hindi": "बॉटैनिकल गार्डन"
+        }
+    }
+]

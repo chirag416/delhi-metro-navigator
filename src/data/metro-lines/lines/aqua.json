@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "english": "Noida Sector 51",
+            "hindi": "नोएडा सेक्टर ५१"
+        }
+    },
+    {
+        "id": 2,
+        "name": {
+            "english": "Noida Sector 50",
+            "hindi": "नोएडा सेक्टर ५०"
+        }
+    },
+    {
+        "id": 3,
+        "name": {
+            "english": "Noida Sector 76",
+            "hindi": "नोएडा सेक्टर ७६"
+        }
+    },
+    {
+        "id": 4,
+        "name": {
+            "english": "Noida Sector 101",
+            "hindi": "नोएडा सेक्टर १०१"
+        }
+    },
+    {
+        "id": 5,
+        "name": {
+            "english": "Noida Sector 81",
+            "hindi": "नोएडा सेक्टर ८१"
+        }
+    },
+    {
+        "id": 6,
+        "name": {
+            "english": "NSEZ",
+            "hindi": "एन॰एस॰ई॰ज़ेड॰"
+        }
+    },
+    {
+        "id": 7,
+        "name": {
+            "english": "Noida Sector 83",
+            "hindi": "नोएडा सेक्टर८३"
+        }
+    },
+    {
+        "id": 8,
+        "name": {
+            "english": "Noida Sector 137",
+            "hindi": "नोएडा सेक्टर १३७"
+        }
+    },
+    {
+        "id": 9,
+        "name": {
+            "english": "Noida Sector 142",
+            "hindi": "नोएडा 4सेक्टर १४२"
+        }
+    },
+    {
+        "id": 10,
+        "name": {
+            "english": "Noida Sector 143",
+            "hindi": "नोएडा सेक्टर 1४३"
+        }
+    },
+    {
+        "id": 11,
+        "name": {
+            "english": "Noida Sector 144",
+            "hindi": "नोएडा सेक्टर १४४"
+        }
+    },
+    {
+        "id": 12,
+        "name": {
+            "english": "Noida Sector 145",
+            "hindi": "नोएडा सेक्टर १४५"
+        }
+    },
+    {
+        "id": 13,
+        "name": {
+            "english": "Noida Sector 146",
+            "hindi": "नोएडा सेक्टर १५३"
+        }
+    },
+    {
+        "id": 14,
+        "name": {
+            "english": "Noida Sector 147",
+            "hindi": "नोएडा सेक्टर १४७"
+        }
+    },
+    {
+        "id": 15,
+        "name": {
+            "english": "Noida Sector 148",
+            "hindi": "नोएडा सेक्टर १४८"
+        }
+    },
+    {
+        "id": 16,
+        "name": {
+            "english": "Knowledge Park II",
+            "hindi": "नॉलेज पार्क II"
+        }
+    },
+    {
+        "id": 17,
+        "name": {
+            "english": "Pari Chowk",
+            "hindi": "परी चौक"
+        }
+    },
+    {
+        "id": 18,
+        "name": {
+            "english": "Alpha 1",
+            "hindi": "एल्फा १"
+        }
+    },
+    {
+        "id": 19,
+        "name": {
+            "english": "Delta 1",
+            "hindi": "डेल्टा १"
+        }
+    },
+    {
+        "id": 20,
+        "name": {
+            "english": "GNIDA Office",
+            "hindi": "ग्रेनो ऑफिस"
+        }
+    },
+    {
+        "id": 21,
+        "name": {
+            "english": "Depot",
+            "hindi": "डिपो"
+        }
+    }
+]

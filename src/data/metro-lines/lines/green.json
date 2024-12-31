@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "english": "Inderlok",
+            "hindi": "इंद्रलोक"
+        }
+    },
+    {
+        "id": 2,
+        "name": {
+            "english": "Ashok Park Main",
+            "hindi": "अशोक पार्क मेन"
+        }
+    },
+    {
+        "id": 3,
+        "name": {
+            "english": "Punjabi Bagh",
+            "hindi": "पंजाबी बाग़"
+        }
+    },
+    {
+        "id": 4,
+        "name": {
+            "english": "Shivaji Park",
+            "hindi": "शिवाजी पार्क"
+        }
+    },
+    {
+        "id": 5,
+        "name": {
+            "english": "Madipur",
+            "hindi": "मादीपुर"
+        }
+    },
+    {
+        "id": 6,
+        "name": {
+            "english": "Paschim Vihar East",
+            "hindi": "पश्चिम विहार पूर्व"
+        }
+    },
+    {
+        "id": 7,
+        "name": {
+            "english": "Paschim Vihar West",
+            "hindi": "पश्चिम विहार पश्चिम"
+        }
+    },
+    {
+        "id": 8,
+        "name": {
+            "english": "Peera Garhi",
+            "hindi": "पीरागढ़ी"
+        }
+    },
+    {
+        "id": 9,
+        "name": {
+            "english": "Udyog Nagar",
+            "hindi": "उद्योग नगर"
+        }
+    },
+    {
+        "id": 10,
+        "name": {
+            "english": "Surajmal Stadium",
+            "hindi": "सूरजमल स्टेडियम"
+        }
+    },
+    {
+        "id": 11,
+        "name": {
+            "english": "Nangloi",
+            "hindi": "नांगलोई"
+        }
+    },
+    {
+        "id": 12,
+        "name": {
+            "english": "Nangloi Railway station",
+            "hindi": "नांगलोई रेलवे स्टेशन"
+        }
+    },
+    {
+        "id": 13,
+        "name": {
+            "english": "Rajdhani Park",
+            "hindi": "राजधानी पार्क"
+        }
+    },
+    {
+        "id": 14,
+        "name": {
+            "english": "Mundka",
+            "hindi": "मुण्डका"
+        }
+    },
+    {
+        "id": 15,
+        "name": {
+            "english": "Mundka Industrial Area",
+            "hindi": "मुण्डका औद्योगिक क्षेत्र"
+        }
+    },
+    {
+        "id": 16,
+        "name": {
+            "english": "Ghevra Metro station",
+            "hindi": "घेवरा मेट्रो स्टेशन"
+        }
+    },
+    {
+        "id": 17,
+        "name": {
+            "english": "Tikri Kalan",
+            "hindi": "टीकरी कलाँ"
+        }
+    },
+    {
+        "id": 18,
+        "name": {
+            "english": "Tikri Border",
+            "hindi": "टीकरी बॉर्डर"
+        }
+    },
+    {
+        "id": 19,
+        "name": {
+            "english": "Pandit Shree Ram Sharma",
+            "hindi": "पंडित श्री राम शर्मा"
+        }
+    },
+    {
+        "id": 20,
+        "name": {
+            "english": "Bahadurgarh City",
+            "hindi": "बहादुरगढ़ सिटी"
+        }
+    },
+    {
+        "id": 21,
+        "name": {
+            "english": "Brigadier Hoshiyar Singh",
+            "hindi": "ब्रिगेडियर होशियार सिंह"
+        }
+    }
+]
